@@ -33,4 +33,8 @@ body{
 h1{
     text-align: center;
     background-color: #f7ceb0;
+    margin: 20px;
+}
+p{
+    margin: 20px ;
 }
