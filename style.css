@@ -35,8 +35,11 @@ h1{
     text-align: center;
     background-color: #f7ceb0;
     margin: 20px;
-    padding: 10px;
+    padding: 20px;
 }
 p{
     margin: 10px ;
+}
+footer{
+    font-style: italic;
 }
