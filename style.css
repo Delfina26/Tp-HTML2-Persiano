@@ -7,9 +7,6 @@ p {
     color:rgb(59, 42, 5);
     font-family: sans-serif;
 }
-h1{
-    color: sienna;
-}
 #especial{
      border: 3px solid brown;
      padding: 15px;
@@ -32,14 +29,18 @@ body{
     margin: 10px;
 }
 h1{
+    color: sienna;
     text-align: center;
     background-color: #f7ceb0;
     margin: 20px;
-    padding: 20px;
+    padding: 25px;
 }
 p{
     margin: 10px ;
 }
 footer{
     font-style: italic;
+}
+h2{
+    background-color: sienna;
 }
