@@ -20,7 +20,7 @@ footer{
 }
 main{
     background-color: #f7ceb0;
-    margin: 20px;
+    margin: 30px;
 }
 ul{
     margin:20px ;
@@ -28,4 +28,7 @@ ul{
 body{
     background-color: #edd7ce;
     margin: 10px;;
+}
+h1{
+    text-align: center;
 }
