@@ -20,7 +20,8 @@ footer{
 }
 main{
     background-color: #f7ceb0;
-    margin: 40px;
+    padding: 40px;
+    margin: 10px;
 }
 ul{
     margin:20px ;
